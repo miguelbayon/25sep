@@ -1,3 +1,6 @@
 Hola
 Esta es la segunda linea
 Adios
+10
+20
+30
